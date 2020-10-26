@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/DSC-AKGEC/static/css/main.8dfb63d0.chunk.css",
+    "main.js": "/DSC-AKGEC/static/js/main.d5acba21.chunk.js",
+    "main.js.map": "/DSC-AKGEC/static/js/main.d5acba21.chunk.js.map",
+    "runtime-main.js": "/DSC-AKGEC/static/js/runtime-main.fe93b4cb.js",
+    "runtime-main.js.map": "/DSC-AKGEC/static/js/runtime-main.fe93b4cb.js.map",
+    "static/js/2.92558802.chunk.js": "/DSC-AKGEC/static/js/2.92558802.chunk.js",
+    "static/js/2.92558802.chunk.js.map": "/DSC-AKGEC/static/js/2.92558802.chunk.js.map",
+    "index.html": "/DSC-AKGEC/index.html",
+    "precache-manifest.6f317d1d88fe209ae0347d1b81e20d62.js": "/DSC-AKGEC/precache-manifest.6f317d1d88fe209ae0347d1b81e20d62.js",
+    "service-worker.js": "/DSC-AKGEC/service-worker.js",
+    "static/css/main.8dfb63d0.chunk.css.map": "/DSC-AKGEC/static/css/main.8dfb63d0.chunk.css.map",
+    "static/js/2.92558802.chunk.js.LICENSE.txt": "/DSC-AKGEC/static/js/2.92558802.chunk.js.LICENSE.txt",
+    "static/media/ANVESHANA.jpg": "/DSC-AKGEC/static/media/ANVESHANA.07c120bc.jpg",
+    "static/media/Ambulon.jpg": "/DSC-AKGEC/static/media/Ambulon.83ddbfb5.jpg",
+    "static/media/Dsc.png": "/DSC-AKGEC/static/media/Dsc.61123d7a.png",
+    "static/media/ai-ml.png": "/DSC-AKGEC/static/media/ai-ml.9bc90c7e.png",
+    "static/media/app-d.png": "/DSC-AKGEC/static/media/app-d.58fe4faa.png",
+    "static/media/home.css": "/DSC-AKGEC/static/media/background.6120fe74.PNG",
+    "static/media/bckTeam.png": "/DSC-AKGEC/static/media/bckTeam.b42d6b75.png",
+    "static/media/card-back.jpg": "/DSC-AKGEC/static/media/card-back.0d19cead.jpg",
+    "static/media/cloud-platform.jpg": "/DSC-AKGEC/static/media/cloud-platform.eb5c26b3.jpg",
+    "static/media/contactForm-img.PNG": "/DSC-AKGEC/static/media/contactForm-img.940d2991.PNG",
+    "static/media/Footer.css": "/DSC-AKGEC/static/media/footer-bck.ffc9c52a.PNG",
+    "static/media/git.png": "/DSC-AKGEC/static/media/git.2c4935bb.png",
+    "static/media/hihome.jpg": "/DSC-AKGEC/static/media/hihome.d2f292ec.jpg",
+    "static/media/manage.png": "/DSC-AKGEC/static/media/manage.2c1ec844.png",
+    "static/media/networking.png": "/DSC-AKGEC/static/media/networking.0f3ab0f5.png",
+    "static/media/RecentEvent.css": "/DSC-AKGEC/static/media/pln-back.256514e6.PNG",
+    "static/media/port-project.jpg": "/DSC-AKGEC/static/media/port-project.93aeb1f0.jpg",
+    "static/media/progate.jpg": "/DSC-AKGEC/static/media/progate.c9dc4710.jpg",
+    "static/media/startup-bck.PNG": "/DSC-AKGEC/static/media/startup-bck.8676f4d9.PNG",
+    "static/media/training.png": "/DSC-AKGEC/static/media/training.2afa2854.png",
+    "static/media/web-d.png": "/DSC-AKGEC/static/media/web-d.7b1d2730.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe93b4cb.js",
+    "static/js/2.92558802.chunk.js",
+    "static/css/main.8dfb63d0.chunk.css",
+    "static/js/main.d5acba21.chunk.js"
+  ]
+}
