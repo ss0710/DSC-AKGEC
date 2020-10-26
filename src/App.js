@@ -20,7 +20,7 @@ function App() {
           <Nav/>
           <ScrollToTop />
           <Switch>
-            <Route exact path="/" component={Home}/>
+            <Route exact path={process.env.PUBLIC_URL + '/'} component={Home}/>
             <Route path="/Team" component={Team}/>
             <Route path="/Event" component={Event}/>
             <Route path="/Achievements" component={Achievements}/>
