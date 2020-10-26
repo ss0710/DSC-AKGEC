@@ -21,10 +21,10 @@ function App() {
           <ScrollToTop />
           <Switch>
             <Route exact path={process.env.PUBLIC_URL + '/'} component={Home}/>
-            <Route path="/Team" component={Team}/>
-            <Route path="/Event" component={Event}/>
-            <Route path="/Achievements" component={Achievements}/>
-            <Route path="/Contact" component={Contact}/>
+            <Route path={process.env.PUBLIC_URL + '/Team'} component={Team}/>
+            <Route path={process.env.PUBLIC_URL + '/Event'} component={Event}/>
+            <Route path={process.env.PUBLIC_URL + '/Achievements'} component={Achievements}/>
+            <Route path={process.env.PUBLIC_URL + '/Contact'} component={Contact}/>
           </Switch>
           <Foot/>
         </React.Fragment>
