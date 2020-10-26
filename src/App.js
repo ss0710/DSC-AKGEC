@@ -20,9 +20,7 @@ function App() {
           <Nav/>
           <ScrollToTop />
           <Switch>
-           <Route path="/" component={App}>
-           <IndexRoute path="" component={Home}/>
-             </Route>
+            <Route exact path="/" component={Home}/>
             <Route path="/Team" component={Team}/>
             <Route path="/Event" component={Event}/>
             <Route path="/Achievements" component={Achievements}/>
